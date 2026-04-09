@@ -1,0 +1,15 @@
+cms_id	   created_at	            closed_at	       outlet	  Same Day    Same Hour		
+  1	2021-11-09 10:00	2021-11-09 10:30	  A	    Yes	         Yes		
+  2	2021-11-09 11:00	2021-11-09 12:00	  B	    Yes	         No		
+  3	2021-11-10 09:00	2021-11-10 09:15	  A	    Yes	         Yes		
+							
+Outlet A Same Day	2						
+Outlet A Same Hour	2		
+
+
+
+
+cms_id	   ticket_created_at
+  1	   2021-11-09 10:00
+  2	   2021-11-09 11:00
+  3	   2021-11-10 09:00				
